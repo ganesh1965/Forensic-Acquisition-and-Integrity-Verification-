@@ -43,7 +43,7 @@ This repository contains my academic forensic project demonstrating the complete
 
 ## 📄 **Report**
 
-👉 **[Download Complete Forensic Report (PDF)](./forensic_acquisition_report/Forensic_Report.pdf)**
+👉 **[Download Complete Forensic Report (PDF)](./Forensic_Report.pdf)**
 
 ---
 
