@@ -41,11 +41,6 @@ This repository contains my academic forensic project demonstrating the complete
 
 ---
 
-## 📄 **Report**
-
-👉 **[Download Complete Forensic Report (PDF)](./Forensic_Report.pdf)**
-
----
 
 ## 👨‍💻 **Author**
 
