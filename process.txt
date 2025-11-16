@@ -1,0 +1,17 @@
+# Forensic Imaging Steps
+
+1. sudo fdisk -l
+   → Lists all disks connected.
+
+2. sudo umount /dev/sdb
+   → Safely unmounts target drive.
+
+3. sudo dd if=/dev/sdb of=/home/arhant/forensics/suspect_forensics.dd bs=4M
+   → Creates forensic image.
+
+4. md5sum /dev/sdb
+   md5sum /home/arhant/forensics/suspect_forensics.dd
+   → Confirms data integrity.
+5. sha56sum /dev/sdb
+   sha255sum /home/arhant/forensics/suspect_forensics.dd
+   → Confirms data integrity with another hash algorithm....
